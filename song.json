@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "album": "÷",
+    "duration": "3:53",
+    "src": "songs/shape-of-you.mp3",
+    "cover": "images/shape-of-you.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Despacito",
+    "artist": "Luis Fonsi",
+    "album": "Vida",
+    "duration": "3:48",
+    "src": "songs/despacito.mp3",
+    "cover": "images/despacito.jpg"
+  }
+]

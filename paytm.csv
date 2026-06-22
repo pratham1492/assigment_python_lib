@@ -1,0 +1,4 @@
+Date;Amount;Type;Status
+01-01-2025;500;Credit;Success
+02-01-2025;;Debit;Success
+03-01-2025;1000;Credit;
